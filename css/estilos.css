@@ -10,4 +10,10 @@ body{
     background-color: teal;
     width: 70%;
     margin: 0;
+    margin-left: 243px;
+}
+
+#cabecera h4{
+    display: inline;
+    margin-top: 20px;
 }
