@@ -1,6 +1,6 @@
 body{
     text-align: center;
-    font-family: courier ;
+    font-family: arial ;
     color: aliceblue;
     background-color: black;
 }
@@ -14,6 +14,6 @@ body{
 }
 
 #cabecera h4{
-    display: inline;
-    margin-top: 20px;
+    margin-top: 0;
+    text-align: left;
 }
