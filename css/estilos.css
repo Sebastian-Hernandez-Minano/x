@@ -4,3 +4,10 @@ body{
     color: aliceblue;
     background-color: black;
 }
+
+#container{
+    border: 1px solid white;
+    background-color: teal;
+    width: 70%;
+    margin: 0;
+}
